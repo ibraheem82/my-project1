@@ -1,0 +1,3 @@
+Let’s start by understanding what a tenant is, so a tenant is someone who rents land or property for their home or business.
+
+The technical version of tenancy is an architecture in which an instance of an application and infrastructure serves a customer.
