@@ -1,3 +1,10 @@
 Let’s start by understanding what a tenant is, so a tenant is someone who rents land or property for their home or business.
 
 The technical version of tenancy is an architecture in which an instance of an application and infrastructure serves a customer.
+
+
+
+
+
+Multi Tenancy :
+Multi-tenancy is a reference to the mode of operation of software where multiple independent instances of one or multiple applications operate in a shared environment. The instances (tenants) are logically isolated, but physically integrated.
